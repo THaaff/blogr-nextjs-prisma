@@ -1,0 +1,5 @@
+to run prisma: npx prisma studio 
+that will get the database connection up and going
+
+the site itself just needs: npm run dev
+the site can run without the db going but the posts won't shadow
